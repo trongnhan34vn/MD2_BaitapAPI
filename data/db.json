@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn A",
+      "country": "HN",
+      "comment": "Số 1 Trần Duy Hưng"
+    },
+    {
+      "id": 2,
+      "name": "Nguyễn Thị B",
+      "country": "HCM",
+      "comment": "Số 1 Tây Hồ"
+    },
+    {
+      "id": "3",
+      "name": "Nguyễn Văn C",
+      "country": "ĐN",
+      "comment": "Số 2 Tống Duy Tân"
+    },
+    {
+      "id": "5",
+      "name": "Khoa pug",
+      "country": "HN",
+      "comment": "dau to"
+    }
+  ]
+}
